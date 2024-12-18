@@ -2,11 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PoissonRecon" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/apex" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dataset/humanrf/actorshq/toolbox/mesh_tools/third_party/Pangolin" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dataset/humanrf/actorshq/toolbox/mesh_tools/third_party/Pangolin/components/pango_python/pybind11" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dataset/humanrf/actorshq/toolbox/mesh_tools/third_party/Pangolin/scripts/vcpkg" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dataset/humanrf/actorshq/toolbox/mesh_tools/third_party/alembic" vcs="Git" />
   </component>
 </project>
