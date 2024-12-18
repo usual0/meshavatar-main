@@ -1,0 +1,10 @@
+*__pycache__
+out
+log
+debug
+PoissonRecon*
+data/data_templates*
+data/yushuo
+apex
+tmp
+smpl_models
